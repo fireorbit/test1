@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-scanbot-sdk",
+        "scope": null,
+        "escapedName": "cordova-plugin-scanbot-sdk",
+        "name": "cordova-plugin-scanbot-sdk",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\tfs\\Kam-Dev\\cordova"
+    ]
+  ],
+  "_from": "cordova-plugin-scanbot-sdk@latest",
+  "_id": "cordova-plugin-scanbot-sdk@1.2.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-scanbot-sdk",
+  "_nodeVersion": "6.9.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-scanbot-sdk-1.2.0.tgz_1493982355580_0.936427952721715"
+  },
+  "_npmUser": {
+    "name": "scanbot",
+    "email": "sdk@scanbot.io"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-scanbot-sdk",
+    "scope": null,
+    "escapedName": "cordova-plugin-scanbot-sdk",
+    "name": "cordova-plugin-scanbot-sdk",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-scanbot-sdk/-/cordova-plugin-scanbot-sdk-1.2.0.tgz",
+  "_shasum": "9346ec35d7be752c0b6186aad09a71c01a9e899e",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-scanbot-sdk",
+  "_where": "C:\\tfs\\Kam-Dev\\cordova",
+  "author": {
+    "name": "doo GmbH"
+  },
+  "cordova": {
+    "id": "cordova-plugin-scanbot-sdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Plugin for Scanbot SDK",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9346ec35d7be752c0b6186aad09a71c01a9e899e",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-scanbot-sdk/-/cordova-plugin-scanbot-sdk-1.2.0.tgz"
+  },
+  "gitHead": "e14bed5acf3d5948a253141c4a5ba6b9366c5180",
+  "homepage": "https://scanbot.io/sdk.html",
+  "keywords": [
+    "scanbot",
+    "sdk",
+    "camera",
+    "scanner",
+    "scanning",
+    "document detection",
+    "edge detection",
+    "cropping",
+    "pdf",
+    "pdf creation",
+    "image optimization",
+    "image filter",
+    "ocr",
+    "optical character recognition",
+    "cordova",
+    "plugin",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "maintainers": [
+    {
+      "name": "scanbot",
+      "email": "eddy@scanbot.io"
+    }
+  ],
+  "name": "cordova-plugin-scanbot-sdk",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.2.0"
+}
